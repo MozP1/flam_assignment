@@ -1,10 +1,14 @@
-# flam_assignment
+## Objective
+The variables are calculated by minimizing the L1 error by measuring how far the predicted curve is from observed points (x,y values from the xy_data.csv)
+
+L1 error= ∑​∣xi​−x(ti​)∣+∣yi​−y(ti​)∣
 
 ## Results
 
 - theta (deg): **28.116682**
 - M: **0.021380**
 - X: **54.895153**
+- L1_error: 37865.10157330653
 
 **LaTeX equation**
 
