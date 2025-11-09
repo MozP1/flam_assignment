@@ -110,3 +110,8 @@ After optimization on the supplied data:
 - `results/` — output folder (created on run) containing params, LaTeX, predictions, and plot
 
 ---
+
+## 9) Plot
+
+<img width="1050" height="900" alt="fit_vs_data" src="https://github.com/user-attachments/assets/e6380118-ac97-423a-8170-a99ca5e27b39" />
+
