@@ -1,3 +1,9 @@
+# Results
+- **θ (degrees):** 28.119942°
+- **θ (radians):** 0.4908
+- **M:** 0.021397
+- **X:** 54.899452
+- **L1 error (sum):** 37865.0962
 
 # Parametric Curve Fitting — θ, M, X (L1 Minimization)
 
