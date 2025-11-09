@@ -1,0 +1,10 @@
+{
+  "theta_deg": 28.11668226393961,
+  "M": 0.0213795444232489,
+  "X": 54.89515260372247,
+  "L1_error": 37865.10157330653,
+  "nit": 25,
+  "nfev": 1226,
+  "success": true,
+  "message": "Optimization terminated successfully."
+}
