@@ -106,7 +106,6 @@ After optimization on the supplied data:
 
 ## 8) Files in this repo
 - `fit_parametric_curve.py` — main script to fit parameters and generate artifacts
-- `requirements.txt` — dependencies: numpy, pandas, scipy, matplotlib
 - `xy_data.csv` — input data (x, y)
 - `results/` — output folder (created on run) containing params, LaTeX, predictions, and plot
 
